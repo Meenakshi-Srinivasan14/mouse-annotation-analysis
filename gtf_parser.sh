@@ -1,5 +1,5 @@
 #-----------------------------
-# Comment
+
 # To keep the commands short below, put the file name in a variable
 
 gtf=Mus_musculus.GRCm38.75_chr1.gtf
